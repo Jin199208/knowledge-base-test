@@ -1,2 +1,10 @@
-# knowledge-base-test
-A test repository for knowledge base navigation feasibility.
+# 知識庫目錄 (TOC)
+
+歡迎來到知識庫測試環境。以下是本專案的文檔結構：
+
+## 核心功能
+- [身分驗證說明](docs/auth.md)：包含登入、權限與 Token 管理。
+- [API 介面定義](docs/api.md)：詳細列出後端所有的 Endpoint 與參數。
+
+## 系統維護
+- [資料庫結構](docs/db.md)：資料表關聯與索引設定。
